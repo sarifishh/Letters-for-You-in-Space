@@ -1,0 +1,1 @@
+audio_play_sound(theme__music,0,true)

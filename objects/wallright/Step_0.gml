@@ -1,0 +1,1 @@
+buffer = buffer_create(64, buffer_grow, 1);
