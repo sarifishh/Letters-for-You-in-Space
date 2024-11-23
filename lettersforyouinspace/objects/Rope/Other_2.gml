@@ -1,0 +1,1 @@
+global.xStringOffset = 0
